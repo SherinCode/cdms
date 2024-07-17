@@ -1,5 +1,3 @@
-# cdms
+HTML Website
 
-Dummy Project
-
-Website developed using HTML, CSS and javaScript
+HTML, CSS, and JS include code that’s easy to understand and easy to change, no other frameworks are needed.
