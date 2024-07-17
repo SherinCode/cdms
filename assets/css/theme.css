@@ -1,0 +1,32 @@
+.footer-area a:hover,
+.footer-area a:focus,
+.home-left .primary-btn,
+.home-left .primary-btn:hover,
+.home-left .primary-btn:focus,
+.single-counter i,
+.counter-value {
+	color: #9000E9;
+}
+
+.send-msg-btn:hover,
+.send-msg-btn:focus,
+.book-overview-icon-box,
+.order-btn:hover,
+.order-btn:focus {
+	border: 1px solid #9000E9;
+	color: #9000E9;
+}
+
+
+#home,
+.header-dot,
+.mentor-social a,
+.sb-content .popular-sub-tag,
+#support-review:before  {
+	background-color: #9000E9;
+}
+
+.contact-form .form-control:focus{
+	border: 1px solid #9000E9;    
+} 
+
